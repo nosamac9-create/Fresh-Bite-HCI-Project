@@ -143,6 +143,8 @@ Log your meals, get accurate calorie and macro breakdowns, and receive personali
 
 [**🎨 View the Design File**](https://www.figma.com/design/B9f6s0EzBvqXYGcuk4YoiZ/Project-HCI?node-id=0-1&t=1IeVM1cp5Bp4GMvc-1)
 
+[**▶️ Try the Interactive Prototype**](https://www.figma.com/proto/B9f6s0EzBvqXYGcuk4YoiZ/Project-HCI?node-id=16-154&p=f&t=nm21A487NaGayWWq-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=16%3A154&show-proto-sidebar=1)
+
 ---
 
 ## 🧠 HCI Principles Applied
