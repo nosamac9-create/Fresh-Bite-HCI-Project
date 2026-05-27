@@ -175,7 +175,7 @@ Log your meals, get accurate calorie and macro breakdowns, and receive personali
 
 ---
 
-## 👥 Team 
+##  Team 
 
 This project was designed and built by:
 
