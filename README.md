@@ -139,7 +139,7 @@ Log your meals, get accurate calorie and macro breakdowns, and receive personali
 
 > Want to click through it yourself? Check out the full interactive prototype on Figma:
 
-### 👉 [**Open in Figma**](https://www.figma.com/design/B9f6s0EzBvqXYGcuk4YoiZ/Project-HCI?node-id=0-1&t=Xh94u5Arv6sluJd7-1)
+### 👉 [**Open in Figma**](https://www.figma.com/proto/B9f6s0EzBvqXYGcuk4YoiZ/Project-HCI?node-id=16-154&p=f&t=1mR6XWq46fLQS45M-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=16%3A154&show-proto-sidebar=1)
 
 ---
 
@@ -171,7 +171,7 @@ Log your meals, get accurate calorie and macro breakdowns, and receive personali
 
 ---
 
-## 👥 Team — Group 6
+## 👥 Team 
 
 This project was designed and built by:
 
